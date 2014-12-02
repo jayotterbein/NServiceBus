@@ -21,5 +21,6 @@
   </metadata>
   <files>
     <file src="..\..\binaries\containers\castle\NServiceBus.ObjectBuilder.CastleWindsor.???" target="lib\net40" />
+    <file src="..\..\packaging\nuget\tools\install.ps1" target="tools" />
   </files>
 </package>

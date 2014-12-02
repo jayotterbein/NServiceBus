@@ -22,5 +22,6 @@
   </metadata>
   <files>
     <file src="..\..\binaries\containers\Unity\NServiceBus.ObjectBuilder.Unity.???" target="lib\net40" />
+    <file src="..\..\packaging\nuget\tools\install.ps1" target="tools" />
   </files>
 </package>

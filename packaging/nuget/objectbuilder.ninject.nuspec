@@ -23,5 +23,6 @@
   </metadata>
   <files>
     <file src="..\..\binaries\containers\Ninject\NServiceBus.ObjectBuilder.Ninject.???" target="lib\net40" />
+    <file src="..\..\packaging\nuget\tools\install.ps1" target="tools" />
   </files>
 </package>
